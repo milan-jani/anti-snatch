@@ -1,0 +1,6 @@
+{
+  "name": "Anti-Snatch",
+  "description": "An Android application that detects sudden and abnormal phone movements to lock the device in case of a potential snatch event.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
